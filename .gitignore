@@ -455,3 +455,4 @@ $RECYCLE.BIN/
 pizza.db-shm
 pizza.db-wal
 *.fuse_hidden*
+pizza.db
