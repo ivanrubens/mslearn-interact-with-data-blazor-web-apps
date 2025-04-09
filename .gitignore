@@ -454,3 +454,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 pizza.db-shm
 pizza.db-wal
+*.fuse_hidden*
